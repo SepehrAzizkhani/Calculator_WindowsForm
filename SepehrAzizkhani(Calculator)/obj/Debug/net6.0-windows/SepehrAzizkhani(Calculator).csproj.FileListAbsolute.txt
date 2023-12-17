@@ -1,0 +1,17 @@
+C:\Users\sepehr\source\repos\SepehrAzizkhani(Calculator)\SepehrAzizkhani(Calculator)\bin\Debug\net6.0-windows\SepehrAzizkhani(Calculator).exe
+C:\Users\sepehr\source\repos\SepehrAzizkhani(Calculator)\SepehrAzizkhani(Calculator)\bin\Debug\net6.0-windows\SepehrAzizkhani(Calculator).deps.json
+C:\Users\sepehr\source\repos\SepehrAzizkhani(Calculator)\SepehrAzizkhani(Calculator)\bin\Debug\net6.0-windows\SepehrAzizkhani(Calculator).runtimeconfig.json
+C:\Users\sepehr\source\repos\SepehrAzizkhani(Calculator)\SepehrAzizkhani(Calculator)\bin\Debug\net6.0-windows\SepehrAzizkhani(Calculator).dll
+C:\Users\sepehr\source\repos\SepehrAzizkhani(Calculator)\SepehrAzizkhani(Calculator)\bin\Debug\net6.0-windows\SepehrAzizkhani(Calculator).pdb
+C:\Users\sepehr\source\repos\SepehrAzizkhani(Calculator)\SepehrAzizkhani(Calculator)\obj\Debug\net6.0-windows\SepehrAzizkhani(Calculator).csproj.AssemblyReference.cache
+C:\Users\sepehr\source\repos\SepehrAzizkhani(Calculator)\SepehrAzizkhani(Calculator)\obj\Debug\net6.0-windows\SepehrAzizkhani_Calculator_.Form1.resources
+C:\Users\sepehr\source\repos\SepehrAzizkhani(Calculator)\SepehrAzizkhani(Calculator)\obj\Debug\net6.0-windows\SepehrAzizkhani(Calculator).csproj.GenerateResource.cache
+C:\Users\sepehr\source\repos\SepehrAzizkhani(Calculator)\SepehrAzizkhani(Calculator)\obj\Debug\net6.0-windows\SepehrAzizkhani(Calculator).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sepehr\source\repos\SepehrAzizkhani(Calculator)\SepehrAzizkhani(Calculator)\obj\Debug\net6.0-windows\SepehrAzizkhani(Calculator).AssemblyInfoInputs.cache
+C:\Users\sepehr\source\repos\SepehrAzizkhani(Calculator)\SepehrAzizkhani(Calculator)\obj\Debug\net6.0-windows\SepehrAzizkhani(Calculator).AssemblyInfo.cs
+C:\Users\sepehr\source\repos\SepehrAzizkhani(Calculator)\SepehrAzizkhani(Calculator)\obj\Debug\net6.0-windows\SepehrAzizkhani(Calculator).csproj.CoreCompileInputs.cache
+C:\Users\sepehr\source\repos\SepehrAzizkhani(Calculator)\SepehrAzizkhani(Calculator)\obj\Debug\net6.0-windows\SepehrAzizkhani(Calculator).dll
+C:\Users\sepehr\source\repos\SepehrAzizkhani(Calculator)\SepehrAzizkhani(Calculator)\obj\Debug\net6.0-windows\refint\SepehrAzizkhani(Calculator).dll
+C:\Users\sepehr\source\repos\SepehrAzizkhani(Calculator)\SepehrAzizkhani(Calculator)\obj\Debug\net6.0-windows\SepehrAzizkhani(Calculator).pdb
+C:\Users\sepehr\source\repos\SepehrAzizkhani(Calculator)\SepehrAzizkhani(Calculator)\obj\Debug\net6.0-windows\SepehrAzizkhani(Calculator).genruntimeconfig.cache
+C:\Users\sepehr\source\repos\SepehrAzizkhani(Calculator)\SepehrAzizkhani(Calculator)\obj\Debug\net6.0-windows\ref\SepehrAzizkhani(Calculator).dll
